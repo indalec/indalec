@@ -1,43 +1,45 @@
+<h1>Hi, I'm Inda 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Inda</h1>
-<h3 align="center">A dedicated Java student from Spain, based in Germany. Enthusiastic about diving into the IT world.</h3>
+<p>I’m a passionate Java developer from Spain, now based in Germany, with a focus on backend development. I’m constantly learning and evolving in the tech space, striving to build efficient and scalable solutions.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indalec&label=Profile%20views&color=0e75b6&style=flat" alt="indalec" /> </p>
+<hr>
 
-- 🔭 I’m currently working on [Vincent](https://github.com/indalec/Vincent)
+<h2>🚀 Current Projects</h2>
+<ul>
+  <li><strong><a href="https://github.com/indalec/Vincent">Vincent</a></strong>: A personal project focused on Java backend development</li>
+</ul>
 
-- 🌱 I’m currently learning **Java Backend Developement**
+<hr>
 
-- 💬 Ask me about **Java, MarkDown, HTML, CSS**
+<h2>🌱 Skills & Technologies</h2>
+<ul>
+  <li><strong>Programming Languages:</strong> Java, HTML, CSS, JavaScript</li>
+  <li><strong>Frameworks:</strong> Spring Boot, JavaFX</li>
+  <li><strong>Databases:</strong> MySQL, PostgreSQL</li>
+  <li><strong>Tools & Technologies:</strong> Git, AWS, Google Cloud, Linux, Docker</li>
+  <li><strong>Development:</strong> Backend, API design, Microservices</li>
+  <li><strong>Other:</strong> MarkDown, CI/CD, RESTful API</li>
+</ul>
 
-- 📫 How to reach me **indalecio.valenzuela@dci-student.org**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/indaleci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indaleci" height="30" width="40" /></a>
-<a href="https://instagram.com/indaleci1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indaleci1" height="30" width="40" /></a>
-</p>
+<h2>💬 Let's Connect</h2>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:indalecio.valenzuela@dci-student.org">indalecio.valenzuela@dci-student.org</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/indalec">github.com/indalec</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/daleci">linkedin.com/in/daleci</a></li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<hr>
 
-<br><br>
+<h2>🔍 What I’m Learning</h2>
+<ul>
+  <li>Java Backend Development</li>
+  <li>Cloud Computing (AWS & Google Cloud)</li>
+  <li>Microservices Architecture</li>
+</ul>
 
+<hr>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daleci)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/indalec)
-<!--
-**indalec/indalec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🌟 Let's collaborate!</h2>
+<p>I'm open to opportunities, collaborations, and new challenges in backend development and Java-related projects. Feel free to reach out if you’d like to connect or have a project in mind!</p>
