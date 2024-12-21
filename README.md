@@ -25,7 +25,7 @@
 
 <h2>💬 Let's Connect</h2>
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:indaleci4@gmail.com">indalecio.valenzuela@dci-student.org</a></li>
+  <li><strong>Email:</strong> <a href="mailto:indaleci4@gmail.com">indaleci4@gmail.com</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/indalec">github.com/indalec</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/daleci">linkedin.com/in/daleci</a></li>
 </ul>
